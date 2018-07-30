@@ -40,7 +40,6 @@
 以下はすべて、私が主導して社内初導入したものです。
 
 - [Symfony (PHP)](https://symfony.com/)
-  - TODO: 関わった製品やポートフォリオがあればそのリンクを貼る
 - [Echo (golang)](https://echo.labstack.com/)
 - [Goa (golang)](https://goa.design/)
 
